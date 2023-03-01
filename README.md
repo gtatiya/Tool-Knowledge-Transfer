@@ -79,15 +79,15 @@ python transfer_robot_knowledge.py -across tools -augment-trials 10 -classifier-
 <table>
 <tbody>
 <tr>
-<td><img src="figs/Projections_Stirring-Slow_to_Stirring-Slow.png" alt="drawing" width="400" height="380"/></td>
-<td><img src="figs/Projections_Stirring-Fast_to_Stirring-Fast.png" alt="drawing" width="400" height="380"/></td>
+<td><img src="figs/Projections_Stirring-Slow_to_Stirring-Slow.png" alt="drawing" width="400" height="350"/></td>
+<td><img src="figs/Projections_Stirring-Fast_to_Stirring-Fast.png" alt="drawing" width="400" height="350"/></td>
 </tr>
 <tr>
-<td><img src="figs/Projections_Stirring-Twist_to_Stirring-Twist.png" alt="drawing" width="400" height="380"/></td>
-<td><img src="figs/Projections_Whisk_to_Whisk.png" alt="drawing" width="400" height="380"/></td>
+<td><img src="figs/Projections_Stirring-Twist_to_Stirring-Twist.png" alt="drawing" width="400" height="350"/></td>
+<td><img src="figs/Projections_Whisk_to_Whisk.png" alt="drawing" width="400" height="350"/></td>
 </tr>
 <tr>
-<td><img src="figs/Projections_Poke_to_Poke.png" alt="drawing" width="400" height="380"/></td>
+<td><img src="figs/Projections_Poke_to_Poke.png" alt="drawing" width="400" height="350"/></td>
 <td></td>
 </tr>
 </tbody>
