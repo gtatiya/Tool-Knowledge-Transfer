@@ -1,0 +1,20 @@
+joints:
+      - elbow_joint
+      - shoulder_lift_joint
+      - shoulder_pan_joint
+      - wrist_1_joint
+      - wrist_2_joint
+      - wrist_3_joint
+
+behaviors:
+      - 1-look
+      - 2-stirring-slow
+      - 3-stirring-fast
+      - 4-stirring-twist
+      - 5-whisk
+      - 6-poke
+
+modalities:
+      - audio
+      - effort
+      - force

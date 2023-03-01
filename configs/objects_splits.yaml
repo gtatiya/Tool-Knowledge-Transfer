@@ -1,0 +1,180 @@
+fold_0:
+  test:
+  - plastic-bead
+  - metal-nut-bolt
+  - kidney-bean
+  - chia-seed
+  - water
+  train:
+  - glass-bead
+  - salt
+  - wooden-button
+  - wheat
+  - detergent
+  - empty
+  - cane-sugar
+  - styrofoam-bead
+  - chickpea
+  - split-green-pea
+fold_1:
+  test:
+  - salt
+  - wheat
+  - wooden-button
+  - split-green-pea
+  - cane-sugar
+  train:
+  - glass-bead
+  - plastic-bead
+  - detergent
+  - metal-nut-bolt
+  - empty
+  - kidney-bean
+  - chia-seed
+  - styrofoam-bead
+  - chickpea
+  - water
+fold_2:
+  test:
+  - wheat
+  - chickpea
+  - empty
+  - chia-seed
+  - split-green-pea
+  train:
+  - glass-bead
+  - plastic-bead
+  - salt
+  - wooden-button
+  - detergent
+  - metal-nut-bolt
+  - kidney-bean
+  - cane-sugar
+  - styrofoam-bead
+  - water
+fold_3:
+  test:
+  - split-green-pea
+  - metal-nut-bolt
+  - plastic-bead
+  - kidney-bean
+  - detergent
+  train:
+  - glass-bead
+  - salt
+  - wooden-button
+  - wheat
+  - empty
+  - chia-seed
+  - cane-sugar
+  - styrofoam-bead
+  - chickpea
+  - water
+fold_4:
+  test:
+  - glass-bead
+  - styrofoam-bead
+  - salt
+  - wooden-button
+  - detergent
+  train:
+  - plastic-bead
+  - wheat
+  - kidney-bean
+  - metal-nut-bolt
+  - empty
+  - chia-seed
+  - cane-sugar
+  - chickpea
+  - split-green-pea
+  - water
+fold_5:
+  test:
+  - plastic-bead
+  - split-green-pea
+  - chickpea
+  - empty
+  - chia-seed
+  train:
+  - glass-bead
+  - salt
+  - wooden-button
+  - wheat
+  - detergent
+  - metal-nut-bolt
+  - kidney-bean
+  - cane-sugar
+  - styrofoam-bead
+  - water
+fold_6:
+  test:
+  - salt
+  - chickpea
+  - metal-nut-bolt
+  - cane-sugar
+  - chia-seed
+  train:
+  - glass-bead
+  - plastic-bead
+  - wooden-button
+  - wheat
+  - detergent
+  - kidney-bean
+  - empty
+  - styrofoam-bead
+  - split-green-pea
+  - water
+fold_7:
+  test:
+  - styrofoam-bead
+  - metal-nut-bolt
+  - kidney-bean
+  - chickpea
+  - empty
+  train:
+  - glass-bead
+  - plastic-bead
+  - salt
+  - wooden-button
+  - wheat
+  - detergent
+  - chia-seed
+  - cane-sugar
+  - split-green-pea
+  - water
+fold_8:
+  test:
+  - split-green-pea
+  - chickpea
+  - metal-nut-bolt
+  - wheat
+  - water
+  train:
+  - glass-bead
+  - plastic-bead
+  - salt
+  - wooden-button
+  - detergent
+  - kidney-bean
+  - empty
+  - chia-seed
+  - cane-sugar
+  - styrofoam-bead
+fold_9:
+  test:
+  - kidney-bean
+  - styrofoam-bead
+  - empty
+  - detergent
+  - glass-bead
+  train:
+  - salt
+  - plastic-bead
+  - wooden-button
+  - wheat
+  - metal-nut-bolt
+  - chia-seed
+  - cane-sugar
+  - chickpea
+  - split-green-pea
+  - water
