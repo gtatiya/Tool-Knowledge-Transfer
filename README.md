@@ -79,15 +79,15 @@ python transfer_robot_knowledge.py -across tools -augment-trials 10 -classifier-
 <table>
 <tbody>
 <tr>
-<td><img src="figs/Projections_Stirring-Slow_to_Stirring-Slow.png" alt="drawing" width="350" height="180"/></td>
-<td><img src="figs/Projections_Stirring-Fast_to_Stirring-Fast.png" alt="drawing" width="350" height="180"/></td>
+<td><img src="figs/Projections_Stirring-Slow_to_Stirring-Slow.png" alt="drawing" width="400" height="420"/></td>
+<td><img src="figs/Projections_Stirring-Fast_to_Stirring-Fast.png" alt="drawing" width="400" height="420"/></td>
 </tr>
 <tr>
-<td><img src="figs/Projections_Stirring-Twist_to_Stirring-Twist.png" alt="drawing" width="350" height="180"/></td>
-<td><img src="figs/Projections_Whisk_to_Whisk.png" alt="drawing" width="350" height="180"/></td>
+<td><img src="figs/Projections_Stirring-Twist_to_Stirring-Twist.png" alt="drawing" width="400" height="420"/></td>
+<td><img src="figs/Projections_Whisk_to_Whisk.png" alt="drawing" width="400" height="420"/></td>
 </tr>
 <tr>
-<td><img src="figs/Projections_Poke_to_Poke.png" alt="drawing" width="350" height="180"/></td>
+<td><img src="figs/Projections_Poke_to_Poke.png" alt="drawing" width="400" height="420"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -98,16 +98,16 @@ python transfer_robot_knowledge.py -across tools -augment-trials 10 -classifier-
 <table>
 <tbody>
 <tr>
-<td><img src="figs/Projections_Metal-Scissor_to_Metal-Scissor.png" alt="drawing" width="350" height="180"/></td>
-<td><img src="figs/Projections_Metal-Whisk_to_Metal-Whisk.png" alt="drawing" width="350" height="180"/></td>
+<td><img src="figs/Projections_Metal-Scissor_to_Metal-Scissor.png" alt="drawing" width="400" height="420"/></td>
+<td><img src="figs/Projections_Metal-Whisk_to_Metal-Whisk.png" alt="drawing" width="400" height="420"/></td>
 </tr>
 <tr>
-<td><img src="figs/Projections_Plastic-Knife_to_Plastic-Knife.png" alt="drawing" width="350" height="180"/></td>
-<td><img src="figs/Projections_Plastic-Spoon_to_Plastic-Spoon.png" alt="drawing" width="350" height="180"/></td>
+<td><img src="figs/Projections_Plastic-Knife_to_Plastic-Knife.png" alt="drawing" width="400" height="420"/></td>
+<td><img src="figs/Projections_Plastic-Spoon_to_Plastic-Spoon.png" alt="drawing" width="400" height="420"/></td>
 </tr>
 <tr>
-<td><img src="figs/Projections_Wooden-Chopstick_to_Wooden-Chopstick.png" alt="drawing" width="350" height="180"/></td>
-<td><img src="figs/Projections_Wooden-Fork_to_Wooden-Fork.png" alt="drawing" width="350" height="180"/></td>
+<td><img src="figs/Projections_Wooden-Chopstick_to_Wooden-Chopstick.png" alt="drawing" width="400" height="420"/></td>
+<td><img src="figs/Projections_Wooden-Fork_to_Wooden-Fork.png" alt="drawing" width="400" height="420"/></td>
 </tr>
 </tbody>
 </table>
