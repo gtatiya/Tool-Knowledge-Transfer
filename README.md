@@ -98,16 +98,16 @@ python transfer_robot_knowledge.py -across tools -augment-trials 10 -classifier-
 <table>
 <tbody>
 <tr>
-<td><img src="figs/Projections_Metal-Scissor_to_Metal-Scissor.png" alt="drawing" width="400" height="330"/></td>
-<td><img src="figs/Projections_Metal-Whisk_to_Metal-Whisk.png" alt="drawing" width="400" height="330"/></td>
+<td><img src="figs/Projections_Metal-Scissor_to_Metal-Scissor.png" alt="drawing" width="400" height="320"/></td>
+<td><img src="figs/Projections_Metal-Whisk_to_Metal-Whisk.png" alt="drawing" width="400" height="320"/></td>
 </tr>
 <tr>
-<td><img src="figs/Projections_Plastic-Knife_to_Plastic-Knife.png" alt="drawing" width="400" height="330"/></td>
-<td><img src="figs/Projections_Plastic-Spoon_to_Plastic-Spoon.png" alt="drawing" width="400" height="330"/></td>
+<td><img src="figs/Projections_Plastic-Knife_to_Plastic-Knife.png" alt="drawing" width="400" height="320"/></td>
+<td><img src="figs/Projections_Plastic-Spoon_to_Plastic-Spoon.png" alt="drawing" width="400" height="320"/></td>
 </tr>
 <tr>
-<td><img src="figs/Projections_Wooden-Chopstick_to_Wooden-Chopstick.png" alt="drawing" width="400" height="330"/></td>
-<td><img src="figs/Projections_Wooden-Fork_to_Wooden-Fork.png" alt="drawing" width="400" height="330"/></td>
+<td><img src="figs/Projections_Wooden-Chopstick_to_Wooden-Chopstick.png" alt="drawing" width="400" height="320"/></td>
+<td><img src="figs/Projections_Wooden-Fork_to_Wooden-Fork.png" alt="drawing" width="400" height="320"/></td>
 </tr>
 </tbody>
 </table>
