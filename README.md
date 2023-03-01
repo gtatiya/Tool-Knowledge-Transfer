@@ -114,4 +114,4 @@ python transfer_robot_knowledge.py -across tools -augment-trials 10 -classifier-
 
 ### Tools and Behaviors Transfer Relationships
 
-<img src="figs/Tools_behaviors_2D_neighborhood_graph.png" alt="drawing" width="450" height="350"/>
+<img src="figs/Tools_behaviors_2D_neighborhood_graph.png" alt="drawing" width="450" height="340"/>
